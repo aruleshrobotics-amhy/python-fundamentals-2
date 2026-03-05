@@ -397,18 +397,31 @@ pip install -r requirements.txt
 This README covered the following **11 Python topics**:
 
   No   Topic
+  
   ---- ---------------------------
+  
   1    Functions
+  
   2    Lambda Functions
+  
   3    Classes & Objects
+  
   4    OOP Concepts
+  
   5    Inheritance
+  
   6    Recursion
+  
   7    Enums
+  
   8    Modules
+  
   9    if **name** == "**main**"
+  
   10   Virtual Environments
+  
   11   requirements.txt
+  
 
 ------------------------------------------------------------------------
 
